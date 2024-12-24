@@ -30,7 +30,7 @@ We cater to a wide range of audiences, from developers and researchers to collab
 
 ## Our Vision 🎯
 
-We believe in "Illuminating Tomorrow's Technology," blending timeless inspiration from Rome-inspired statues with modern, innovative solutions. Our iconic branding uses vibrant **pink-blue gradients** (#8c1d60 for pink) to reflect our creative and bold approach.
+We believe in "Illuminating Tomorrow's Technology," striving to harness innovation and excellence to create impactful digital solutions. Our goal is to bridge ideas with technology, delivering unparalleled experiences and reshaping the future of the digital world.
 
 ---
 
