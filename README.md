@@ -36,7 +36,7 @@ We believe in "Illuminating Tomorrow's Technology," blending timeless inspiratio
 
 <div align="center">
 <!--   <img src="https://github.com/user-attachments/assets/fa3bd3d4-6833-4aa6-951f-5db42cac2ceb" alt="Statue 1" width="300"> -->
-  <img src="https://github.com/user-attachments/assets/4a9f65de-6848-45d1-9dfd-001c630de6ee" alt="Statue 2" width="200">
+  <img src="https://github.com/user-attachments/assets/4a9f65de-6848-45d1-9dfd-001c630de6ee" alt="Statue" width="200">
 </div>
 
 ---
