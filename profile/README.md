@@ -8,7 +8,7 @@
 ]]>
 </svg>
 
-### "Illuminating Tomorrow's Technology" 💡
+### "Illuminating Tomorrow's Technology <i>Today</i>" 💡
 
 At **illumin-labs**, we specialize in crafting cutting-edge software solutions, merging innovation with aesthetics. We are your partners in bringing ideas to life, whether you're a developer, researcher, collaborator, or someone seeking bespoke software development services.
 
